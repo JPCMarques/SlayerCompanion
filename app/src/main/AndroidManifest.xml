@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="jpcmarques.rsappmodules.pvm.slayercompanion">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".MainActivity"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".masterPages.Turael" />
+        <activity android:name=".masterPages.MazchnaAchtryn" />
+        <activity android:name=".masterPages.Vannaka" />
+        <activity android:name=".masterPages.Chaeldar" />
+        <activity android:name=".masterPages.Sumona" />
+        <activity android:name=".masterPages.DuradelLapalok" />
+        <activity android:name=".masterPages.Kuradal" />
+        <activity android:name=".masterPages.Morvran"></activity>
+    </application>
+
+</manifest>

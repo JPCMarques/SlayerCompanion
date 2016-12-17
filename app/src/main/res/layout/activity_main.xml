@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_horizontal"
+    android:orientation="vertical"
+    tools:context="jpcmarques.rsappmodules.pvm.slayercompanion.MainActivity">
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:background="@color/colorPrimaryDark"
+        android:layout_height="wrap_content"
+        android:id="@+id/activity_main_title_bar"
+        android:padding="@dimen/tbd_padding"
+        >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical|start"
+            android:text="@string/options_lowercase"
+            android:textColor="@color/amc_text_color"
+            android:id="@+id/activity_main_options"/>
+
+        <TextView
+            android:id="@+id/activity_main_title_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:textSize="@dimen/text_size_very_large"
+            android:textColor="@color/amc_text_color"
+            android:text="@string/app_display_name"/>
+
+        <ImageView
+            android:id="@+id/activity_main_info_icon"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical|end"
+            android:src="@android:drawable/ic_dialog_info"/>
+    </FrameLayout>
+
+    <TextView
+        android:layout_marginTop="@dimen/amd_text_separation"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingRight="@dimen/amd_text_lr_padding"
+        android:paddingLeft="@dimen/amd_text_lr_padding"
+        android:layout_gravity="center"
+        android:text="@string/ams_welcome"
+        android:textAlignment="center"
+        android:textColor="@color/amc_text_color"
+        android:id="@+id/activity_main_welcome_text"/>
+
+    <TextView
+        android:layout_marginTop="@dimen/amd_text_separation"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingRight="@dimen/amd_text_lr_padding"
+        android:paddingLeft="@dimen/amd_text_lr_padding"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:text="@string/ams_select_masters"
+        android:textAlignment="center"
+        android:textColor="@color/amc_text_color"
+        android:id="@+id/activity_main_master_selection_text"/>
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:paddingTop="@dimen/amd_master_list_tb_padding"
+        android:paddingBottom="@dimen/amd_master_list_tb_padding"
+        android:paddingLeft="@dimen/amd_master_list_lr_padding"
+        android:paddingRight="@dimen/amd_master_list_lr_padding"
+        android:weightSum="8"
+        android:id="@+id/activity_main_master_list"
+        >
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:layout_margin="@dimen/amd_master_list_item_margin"
+            android:text="@string/turael_spria"
+            android:textColor="@color/amc_text_color"
+            android:textSize="@dimen/amd_master_list_item_text_size"
+            android:background="@drawable/master_background"
+            android:onClick="turaelSpria"
+            android:id="@+id/activity_main_master_list_turael_spria"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:layout_margin="@dimen/amd_master_list_item_margin"
+            android:text="@string/mazchna_achtryn"
+            android:textColor="@color/amc_text_color"
+            android:textSize="@dimen/amd_master_list_item_text_size"
+            android:background="@drawable/master_background"
+            android:onClick="mazchnaAchtryn"
+            android:id="@+id/activity_main_master_list_mazchna_achtryn"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:text="@string/vannaka"
+            android:textColor="@color/amc_text_color"
+            android:textSize="@dimen/amd_master_list_item_text_size"
+            android:layout_margin="@dimen/amd_master_list_item_margin"
+            android:background="@drawable/master_background"
+            android:onClick="vannaka"
+            android:id="@+id/activity_main_master_list_vannaka"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:text="@string/chaeldar"
+            android:textColor="@color/amc_text_color"
+            android:textSize="@dimen/amd_master_list_item_text_size"
+            android:layout_margin="@dimen/amd_master_list_item_margin"
+            android:background="@drawable/master_background"
+            android:onClick="chaeldar"
+            android:id="@+id/activity_main_master_list_chaeldar"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:text="@string/sumona"
+            android:textColor="@color/amc_text_color"
+            android:textSize="@dimen/amd_master_list_item_text_size"
+            android:layout_margin="@dimen/amd_master_list_item_margin"
+            android:background="@drawable/master_background"
+            android:onClick="sumona"
+            android:id="@+id/activity_main_master_list_sumona"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:layout_margin="@dimen/amd_master_list_item_margin"
+            android:text="@string/duradel_lapalok"
+            android:textColor="@color/amc_text_color"
+            android:textSize="@dimen/amd_master_list_item_text_size"
+            android:background="@drawable/master_background"
+            android:onClick="duradelLapalok"
+            android:id="@+id/activity_main_master_list_duradel_lapalok"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:layout_margin="@dimen/amd_master_list_item_margin"
+            android:text="@string/kuradal"
+            android:textColor="@color/amc_text_color"
+            android:textSize="@dimen/amd_master_list_item_text_size"
+            android:background="@drawable/master_background"
+            android:onClick="kuradal"
+            android:id="@+id/activity_main_master_list_kuradal"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:layout_margin="@dimen/amd_master_list_item_margin"
+            android:text="@string/morvran"
+            android:textColor="@color/amc_text_color"
+            android:textSize="@dimen/amd_master_list_item_text_size"
+            android:background="@drawable/master_background"
+            android:onClick="morvran"
+            android:id="@+id/activity_main_master_list_morvran"/>
+    </LinearLayout>
+
+</LinearLayout>

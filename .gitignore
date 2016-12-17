@@ -1,0 +1,16 @@
+
+.gradle/
+.idea/
+SlayerCompanion.iml
+build/
+gradle.properties
+local.properties
+app/build/
+
+!/app/build.gradle
+!/build.gradle
+!/gradlew.bat
+!/SlayerCompanion.iml
+!/gradle.properties
+!/settings.gradle
+!/gradlew

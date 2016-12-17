@@ -1,0 +1,22 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <!-- App-wide text sizes -->
+    <dimen name="text_size_very_large">20sp</dimen>
+    <dimen name="text_size_medium">14sp</dimen>
+    <dimen name="text_size_small">11sp</dimen>
+    <dimen name="text_size_large">17sp</dimen>
+
+    <!-- Title Bar Specific [tbd] -->
+    <dimen name="tbd_padding">@dimen/activity_horizontal_margin</dimen>
+
+    <!-- Main Activity Specific [amd] -->
+    <dimen name="amd_master_list_item_margin">3dp</dimen>
+    <dimen name="amd_master_list_lr_padding">100dp</dimen>
+    <dimen name="amd_master_list_tb_padding">50dp</dimen>
+    <dimen name="amd_master_list_item_text_size">@dimen/text_size_medium</dimen>
+    <dimen name="amd_text_separation">50dp</dimen>
+    <dimen name="amd_text_lr_padding">20dp</dimen>
+</resources>

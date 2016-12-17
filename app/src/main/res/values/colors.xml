@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App-wide colors -->
+    <color name="colorPrimary">@color/md_red_700</color>
+    <color name="colorPrimaryDark">@color/md_red_900</color>
+    <color name="colorAccent">@color/md_blue_A200</color>
+    <color name="colorSecondary">@color/md_blue_grey_700</color>
+
+    <!-- Main Activity colors [amc] -->
+    <color name="amc_text_color">@color/md_white_1000</color>
+</resources>

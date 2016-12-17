@@ -1,0 +1,20 @@
+<resources>
+    <!-- Common Strings -->
+    <string name="app_name">SlayerCompanion</string>
+    <string name="app_display_name">Slayer Companion</string>
+    <string name="options_lowercase">options</string>
+
+    <!-- Main Activity Specific [ams]-->
+    <string name="ams_welcome">Welcome to the Slayer Companion app for Runescape!</string>
+    <string name="ams_select_masters">Select one of the masters below to get started!</string>
+
+    <!-- Slayer masters -->
+    <string name="turael_spria">Turael/Spria</string>
+    <string name="mazchna_achtryn">Mazchna/Achtryn</string>
+    <string name="vannaka">Vannaka</string>
+    <string name="sumona">Sumona</string>
+    <string name="chaeldar">Chaeldar</string>
+    <string name="duradel_lapalok">Duradel/Lapalok</string>
+    <string name="kuradal">Kuradal</string>
+    <string name="morvran">Morvran</string>
+</resources>
