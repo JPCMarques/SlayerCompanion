@@ -8,3 +8,8 @@ It will provide the following information, for **every task**:
 * Expected gp per task
 * Expected charms per task
 
+The current landing screen:
+
+![Landing screen screenshot][landing screen]
+
+[landing screen]: https://github.com/JPCMarques/SlayerCompanion/blob/master/media/landing_screen.png
