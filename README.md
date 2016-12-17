@@ -10,6 +10,4 @@ It will provide the following information, for **every task**:
 
 The current landing screen:
 
-![Landing screen screenshot][landing screen]
-
-[landing screen]: https://github.com/JPCMarques/SlayerCompanion/blob/master/media/landing_screen.png
+<img src="media/landing_screen.png" width="200">
