@@ -12,10 +12,11 @@ import jpcmarques.rsappmodules.pvm.slayercompanion.masterPages.Kuradal;
 import jpcmarques.rsappmodules.pvm.slayercompanion.masterPages.MazchnaAchtryn;
 import jpcmarques.rsappmodules.pvm.slayercompanion.masterPages.Morvran;
 import jpcmarques.rsappmodules.pvm.slayercompanion.masterPages.Sumona;
-import jpcmarques.rsappmodules.pvm.slayercompanion.masterPages.Turael;
+import jpcmarques.rsappmodules.pvm.slayercompanion.masterPages.TuraelSpria;
 import jpcmarques.rsappmodules.pvm.slayercompanion.masterPages.Vannaka;
+import jpcmarques.rsappmodules.pvm.slayercompanion.util.TitleBarFragment;
 
-public class MainActivity extends AppCompatActivity {
+public class MainActivity extends AppCompatActivity implements TitleBarFragment.TitleBarSupplier{
     //Title bar
     private View options, info;
 
@@ -35,7 +36,7 @@ public class MainActivity extends AppCompatActivity {
     protected void onStart() {
         super.onStart();
         //Title bar
-       /* options = findViewById(R.id.activity_main_options);
+        /*options = findViewById(R.id.activity_main_options);
         info = findViewById(R.id.activity_main_info_icon);
         //Text
         welcomeText = (TextView) findViewById(R.id.activity_main_welcome_text);
@@ -52,7 +53,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void turaelSpria(View v){
-        Intent intent = new Intent(this, Turael.class);
+        Intent intent = new Intent(this, TuraelSpria.class);
         startActivity(intent);
     }
 
@@ -89,5 +90,35 @@ public class MainActivity extends AppCompatActivity {
     public void morvran(View v){
         Intent intent = new Intent(this, Morvran.class);
         startActivity(intent);
+    }
+
+    @Override
+    public int getLeftDrawableResID() {
+        return R.drawable.ic_options;
+    }
+
+    @Override
+    public int getRightDrawableResID() {
+        return R.drawable.ic_action_name;
+    }
+
+    @Override
+    public String getTitleBarText() {
+        return "Slayer Companion";
+    }
+
+    @Override
+    public View.OnClickListener getLeftIconOnClickListener() {
+        return null;
+    }
+
+    @Override
+    public View.OnClickListener getRightIconOnClickListener() {
+        return null;
+    }
+
+    @Override
+    public View.OnClickListener getTitleTextOnClickListener() {
+        return null;
     }
 }

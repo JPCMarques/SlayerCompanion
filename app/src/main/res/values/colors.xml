@@ -6,6 +6,10 @@
     <color name="colorAccent">@color/md_blue_A200</color>
     <color name="colorSecondary">@color/md_blue_grey_700</color>
 
+    <!-- Title bar colors [tbc] -->
+    <color name="tbc_background">@color/colorPrimaryDark</color>
+    <color name="tbc_text_color">@color/md_white_1000</color>
+
     <!-- Main Activity colors [amc] -->
     <color name="amc_text_color">@color/md_white_1000</color>
 </resources>

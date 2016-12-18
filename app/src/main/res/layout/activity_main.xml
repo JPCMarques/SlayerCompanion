@@ -9,38 +9,12 @@
     android:orientation="vertical"
     tools:context="jpcmarques.rsappmodules.pvm.slayercompanion.MainActivity">
 
-    <FrameLayout
+
+    <fragment
         android:layout_width="match_parent"
-        android:background="@color/colorPrimaryDark"
         android:layout_height="wrap_content"
-        android:id="@+id/activity_main_title_bar"
-        android:padding="@dimen/tbd_padding"
-        >
-
-        <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_gravity="center_vertical|start"
-            android:text="@string/options_lowercase"
-            android:textColor="@color/amc_text_color"
-            android:id="@+id/activity_main_options"/>
-
-        <TextView
-            android:id="@+id/activity_main_title_text"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_gravity="center"
-            android:textSize="@dimen/text_size_very_large"
-            android:textColor="@color/amc_text_color"
-            android:text="@string/app_display_name"/>
-
-        <ImageView
-            android:id="@+id/activity_main_info_icon"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_gravity="center_vertical|end"
-            android:src="@android:drawable/ic_dialog_info"/>
-    </FrameLayout>
+        android:name="jpcmarques.rsappmodules.pvm.slayercompanion.util.TitleBarFragment"
+        tools:layout="@layout/fragment_title_bar" />
 
     <TextView
         android:layout_marginTop="@dimen/amd_text_separation"

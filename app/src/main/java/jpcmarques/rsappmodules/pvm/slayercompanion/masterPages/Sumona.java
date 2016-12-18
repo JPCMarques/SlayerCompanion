@@ -5,11 +5,16 @@ import android.os.Bundle;
 
 import jpcmarques.rsappmodules.pvm.slayercompanion.R;
 
-public class Sumona extends AppCompatActivity {
+public class Sumona extends MasterPageActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_sumona);
+    }
+
+    @Override
+    public String getTitleBarText() {
+        return "Sumona";
     }
 }

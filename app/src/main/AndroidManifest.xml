@@ -18,7 +18,7 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".masterPages.Turael" />
+        <activity android:name=".masterPages.TuraelSpria" />
         <activity android:name=".masterPages.MazchnaAchtryn" />
         <activity android:name=".masterPages.Vannaka" />
         <activity android:name=".masterPages.Chaeldar" />

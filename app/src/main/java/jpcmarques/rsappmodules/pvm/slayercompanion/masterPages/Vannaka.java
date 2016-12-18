@@ -5,11 +5,16 @@ import android.os.Bundle;
 
 import jpcmarques.rsappmodules.pvm.slayercompanion.R;
 
-public class Vannaka extends AppCompatActivity {
+public class Vannaka extends MasterPageActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_vannaka);
+    }
+
+    @Override
+    public String getTitleBarText() {
+        return "Vannaka";
     }
 }

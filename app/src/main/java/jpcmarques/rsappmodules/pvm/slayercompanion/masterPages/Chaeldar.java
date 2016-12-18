@@ -5,11 +5,16 @@ import android.os.Bundle;
 
 import jpcmarques.rsappmodules.pvm.slayercompanion.R;
 
-public class Chaeldar extends AppCompatActivity {
+public class Chaeldar extends MasterPageActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_chaeldar);
+    }
+
+    @Override
+    public String getTitleBarText() {
+        return "Chaeldar";
     }
 }

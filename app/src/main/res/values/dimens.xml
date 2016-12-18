@@ -11,6 +11,8 @@
 
     <!-- Title Bar Specific [tbd] -->
     <dimen name="tbd_padding">@dimen/activity_horizontal_margin</dimen>
+    <dimen name="tbd_title_size">@dimen/text_size_very_large</dimen>
+
 
     <!-- Main Activity Specific [amd] -->
     <dimen name="amd_master_list_item_margin">3dp</dimen>
