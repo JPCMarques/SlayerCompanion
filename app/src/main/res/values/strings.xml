@@ -18,7 +18,1269 @@
     <string name="kuradal">Kuradal</string>
     <string name="morvran">Morvran</string>
 
-    <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
-
+    <!-- Slayer master assignments-->
+    <string-array name="turael_spria_monsters">
+        <item>Adolescent White wolf</item>
+        <item>Albino bat</item>
+        <item>Angry bear</item>
+        <item>Angry goblin</item>
+        <item>Armoured zombie</item>
+        <item>Arrg</item>
+        <item>Baby Roc</item>
+        <item>Banshee</item>
+        <item>Banshee mistress</item>
+        <item>Bat</item>
+        <item>Bear Cub</item>
+        <item>Berry</item>
+        <item>Big Wolf</item>
+        <item>Bird</item>
+        <item>Black bear</item>
+        <item>Black Guard</item>
+        <item>Black Guard Berserker</item>
+        <item>Black Guard crossbowdwarf</item>
+        <item>Blessed spider</item>
+        <item>Cave bug</item>
+        <item>Cave goblin</item>
+        <item>Cave goblin guard</item>
+        <item>Cave goblin miner</item>
+        <item>Cave slime</item>
+        <item>Cerberus</item>
+        <item>Chaos dwarf</item>
+        <item>Chaos dwarf (Heart of Gielinor)</item>
+        <item>Chaos dwarf hand cannoneer</item>
+        <item>Chicken</item>
+        <item>Chompy bird</item>
+        <item>Cliff</item>
+        <item>Cow</item>
+        <item>Cow calf</item>
+        <item>Crawling hand</item>
+        <item>Crypt spider</item>
+        <item>Dad</item>
+        <item>Deadly red spider</item>
+        <item>Desert Lizard</item>
+        <item>Desert wolf</item>
+        <item>Dire Wolf</item>
+        <item>Drake</item>
+        <item>Dried zombie</item>
+        <item>Duck</item>
+        <item>Duke</item>
+        <item>Dungeon rat</item>
+        <item>Dungeon spider</item>
+        <item>Dwarf</item>
+        <item>Dwarf gang member</item>
+        <item>Dynamite</item>
+        <item>Entrana firebird</item>
+        <item>Evil Chicken</item>
+        <item>Fenris wolf</item>
+        <item>Fenris wolf (Sköll)</item>
+        <item>Fever spider</item>
+        <item>Gelatinous abomination</item>
+        <item>General malpractitioner</item>
+        <item>Ghost</item>
+        <item>Ghost (Melzar's Maze)</item>
+        <item>Ghostly warrior</item>
+        <item>Giant bat</item>
+        <item>Giant crypt spider</item>
+        <item>Giant lobster</item>
+        <item>Giant lobster (Ghosts Ahoy)</item>
+        <item>Giant Roc</item>
+        <item>Giant skeleton (Shadow Dungeon)</item>
+        <item>Giant skeleton (Tarn's Lair)</item>
+        <item>Giant spider</item>
+        <item>Goblin</item>
+        <item>Goblin Champion</item>
+        <item>Goblin guard (Observatory)</item>
+        <item>Goblin Raider</item>
+        <item>Grave scorpion</item>
+        <item>Grizzly bear</item>
+        <item>Grizzly bear cub</item>
+        <item>Grotworm</item>
+        <item>Guard (cave goblin)</item>
+        <item>Guard dog</item>
+        <item>Guard dog (Sinkholes)</item>
+        <item>Hilda</item>
+        <item>Hollowtoof</item>
+        <item>Ice spider</item>
+        <item>Ice troll</item>
+        <item>Ice troll female</item>
+        <item>Ice troll grunt</item>
+        <item>Ice Troll King</item>
+        <item>Ice troll male</item>
+        <item>Ice troll runt</item>
+        <item>Ice wolf</item>
+        <item>Icefiend</item>
+        <item>Icefiend (Ghorrock)</item>
+        <item>Jackal</item>
+        <item>Jubbly bird</item>
+        <item>Jungle spider</item>
+        <item>Jungle Wolf</item>
+        <item>King Scorpion</item>
+        <item>Kraka</item>
+        <item>Lizard</item>
+        <item>Lumpnose</item>
+        <item>The Map</item>
+        <item>Mature grotworm</item>
+        <item>Mighty banshee</item>
+        <item>Minotaur</item>
+        <item>Monkey</item>
+        <item>Monkey Archer</item>
+        <item>Monkey Guard</item>
+        <item>Monkey Guard (ninja)</item>
+        <item>Monkey Zombie</item>
+        <item>Mosschin</item>
+        <item>Mountain troll</item>
+        <item>Mountain troll (well)</item>
+        <item>Mounted terrorbird gnome</item>
+        <item>Oipuis</item>
+        <item>Oomlie bird</item>
+        <item>Ouhai</item>
+        <item>Padulah</item>
+        <item>Pee Hat</item>
+        <item>Pekin</item>
+        <item>Penguin (monster)</item>
+        <item>Pernicious parrot</item>
+        <item>Pig</item>
+        <item>Pit Scorpion</item>
+        <item>Poison Scorpion</item>
+        <item>Poison spider</item>
+        <item>Redeyes</item>
+        <item>Revenant cyclops</item>
+        <item>Revenant dark beast</item>
+        <item>Revenant demon</item>
+        <item>Revenant dragon</item>
+        <item>Revenant goblin</item>
+        <item>Revenant hellhound</item>
+        <item>Revenant hobgoblin</item>
+        <item>Revenant icefiend</item>
+        <item>Revenant imp</item>
+        <item>Revenant knight</item>
+        <item>Revenant ork</item>
+        <item>Revenant pyrefiend</item>
+        <item>Revenant vampyre</item>
+        <item>Revenant werewolf</item>
+        <item>River troll</item>
+        <item>Rock (monster)</item>
+        <item>Rooster</item>
+        <item>Scorpion</item>
+        <item>Reborn warrior (Dungeoneering)</item>
+        <item>Ice spider (Dungeoneering)</item>
+        <item>Guard dog (Dungeoneering)</item>
+        <item>Bat (Dungeoneering)</item>
+        <item>Cave slime (Dungeoneering)</item>
+        <item>Crawling hand (Dungeoneering)</item>
+        <item>Ghost (Dungeoneering, monster)</item>
+        <item>Scorpion (Ape Atoll)</item>
+        <item>Seagull</item>
+        <item>Sergeant Grimspike</item>
+        <item>Sergeant Steelwill</item>
+        <item>Sergeant Strongstack</item>
+        <item>Shadow Hound</item>
+        <item>Shadow spider</item>
+        <item>Skeletal hand</item>
+        <item>Skeletal miner</item>
+        <item>Skeleton</item>
+        <item>Skeleton (Ape Atoll)</item>
+        <item>Skeleton (Barrows)</item>
+        <item>Skeleton (Demon Slayer)</item>
+        <item>Skeleton (Draynor Manor)</item>
+        <item>Skeleton (Heart of Gielinor)</item>
+        <item>Skeleton (Lumbridge Catacombs)</item>
+        <item>Skeleton (Melzar's Maze)</item>
+        <item>Skeleton (Smoking Kills)</item>
+        <item>Skeleton (Tarn's Lair)</item>
+        <item>Skeleton (Temple Trekking)</item>
+        <item>Skeleton (Thok Your Block Off)</item>
+        <item>Skeleton (Ullek)</item>
+        <item>Skeleton archer</item>
+        <item>Skeleton brute</item>
+        <item>Skeleton fremennik</item>
+        <item>Skeleton heavy</item>
+        <item>Skeleton hero</item>
+        <item>Skeleton Mage</item>
+        <item>Skeleton mage (The Death of Chivalry)</item>
+        <item>Skeleton thug</item>
+        <item>Skeleton warlock</item>
+        <item>Skeleton warlord</item>
+        <item>Skeleton warrior</item>
+        <item>Skoblin</item>
+        <item>Small Lizard</item>
+        <item>Snailfeet</item>
+        <item>Snothead</item>
+        <item>Sorebones</item>
+        <item>Spectral attendant</item>
+        <item>Spectral cultivator</item>
+        <item>Spectral tender</item>
+        <item>Spectral worshipper</item>
+        <item>Spider</item>
+        <item>Stick</item>
+        <item>Stinkears</item>
+        <item>Strongbones</item>
+        <item>Summoned Zombie</item>
+        <item>Super Cow</item>
+        <item>Tenacious toucan</item>
+        <item>Terrorbird</item>
+        <item>Thrower Troll</item>
+        <item>Tormented soul (Uncharted Isles)</item>
+        <item>Tormented wraith</item>
+        <item>Tortured soul (Port Phasmatys)</item>
+        <item>Trade floor guard</item>
+        <item>Troll brute</item>
+        <item>Troll chucker</item>
+        <item>Troll commando</item>
+        <item>Troll father (Troll Invasion)</item>
+        <item>Troll general</item>
+        <item>Troll mage commando</item>
+        <item>Troll ranger commando</item>
+        <item>Troll runt</item>
+        <item>Troll shaman</item>
+        <item>Troll spectator</item>
+        <item>Twig (monster)</item>
+        <item>Ulfric</item>
+        <item>Undead chicken</item>
+        <item>Undead cow</item>
+        <item>Undead one</item>
+        <item>Uodai</item>
+        <item>Uyoro</item>
+        <item>Warped bat</item>
+        <item>White wolf</item>
+        <item>White wolf (Burthorpe)</item>
+        <item>Wild dog</item>
+        <item>Wizard (Troll Invasion)</item>
+        <item>Wolf</item>
+        <item>Wolf (Three's Company)</item>
+        <item>Wormbrain</item>
+        <item>Young grotworm</item>
+        <item>Zogre</item>
+        <item>Zombie</item>
+        <item>Zombie (Ashdale)</item>
+        <item>Zombie (Smoking Kills)</item>
+        <item>Zombie cow</item>
+        <item>Zombie hand</item>
+        <item>Zombie pirate</item>
+        <item>Zombie rat</item>
+        <item>Zombie swab</item>
+    </string-array>
+    <string-array name="mazchna_achtryn_monsters">
+        <item>Adolescent White wolf</item>
+        <item>Albino bat</item>
+        <item>Angry bear</item>
+        <item>Angry vampyre</item>
+        <item>Banshee</item>
+        <item>Banshee mistress</item>
+        <item>Bat</item>
+        <item>Bat (Dungeoneering)</item>
+        <item>Bat (Sinkholes)</item>
+        <item>Bear Cub</item>
+        <item>Big Wolf</item>
+        <item>Black bear</item>
+        <item>Catablepon</item>
+        <item>Cave crawler</item>
+        <item>Cave crawler (Dungeoneering)</item>
+        <item>Cave slime</item>
+        <item>Cave slime (Dungeoneering)</item>
+        <item>Cerberus</item>
+        <item>Cockatrice</item>
+        <item>Crawling hand</item>
+        <item>Crawling hand (Dungeoneering)</item>
+        <item>Cyclops</item>
+        <item>Cyclossus</item>
+        <item>Desert Lizard</item>
+        <item>Desert wolf</item>
+        <item>Dessous</item>
+        <item>Dire Wolf</item>
+        <item>Dried zombie</item>
+        <item>Exiled kalphite guardian</item>
+        <item>Exiled kalphite marauder</item>
+        <item>Exiled kalphite paragon</item>
+        <item>Exiled Kalphite Queen</item>
+        <item>Exiled kalphite soldier</item>
+        <item>Exiled kalphite worker</item>
+        <item>Fenris wolf</item>
+        <item>Fenris wolf (Sköll)</item>
+        <item>Feral vampyre</item>
+        <item>Feral vampyre (River of Blood)</item>
+        <item>Flesh Crawler</item>
+        <item>General malpractitioner</item>
+        <item>Ghost</item>
+        <item>Ghost (Dungeoneering, monster)</item>
+        <item>Ghost (Melzar's Maze)</item>
+        <item>Ghostly warrior</item>
+        <item>Ghoul</item>
+        <item>Ghoul (Paterdomus)</item>
+        <item>Giant bat</item>
+        <item>Giant skeleton (Shadow Dungeon)</item>
+        <item>Giant skeleton (Tarn's Lair)</item>
+        <item>Giant worm</item>
+        <item>Grizzly bear</item>
+        <item>Grizzly bear cub</item>
+        <item>Grotworm</item>
+        <item>Guard dog</item>
+        <item>Guard dog (Dungeoneering)</item>
+        <item>Guard dog (Sinkholes)</item>
+        <item>Hill giant</item>
+        <item>Hill giant (Dungeoneering)</item>
+        <item>Hobgoblin</item>
+        <item>Hobgoblin (Dungeoneering)</item>
+        <item>Hobgoblin (elite)</item>
+        <item>Hobgoblin (Sinkholes)</item>
+        <item>Ice warrior</item>
+        <item>Ice wolf</item>
+        <item>Icelord</item>
+        <item>Jackal</item>
+        <item>Jungle Wolf</item>
+        <item>Kalphite Guardian</item>
+        <item>Kalphite King</item>
+        <item>Kalphite Queen</item>
+        <item>Kalphite Soldier</item>
+        <item>Kalphite Worker</item>
+        <item>Kamil</item>
+        <item>Lizard</item>
+        <item>Mature grotworm</item>
+        <item>Mighty banshee</item>
+        <item>Mogre</item>
+        <item>Monstrous cave crawler</item>
+        <item>Mosschin</item>
+        <item>Pyrefiend</item>
+        <item>Pyrefiend (Dungeoneering)</item>
+        <item>Ravenous ghoul</item>
+        <item>Reborn warrior (Dungeoneering)</item>
+        <item>Redeyes</item>
+        <item>Revenant cyclops</item>
+        <item>Revenant demon</item>
+        <item>Revenant goblin</item>
+        <item>Revenant pyrefiend</item>
+        <item>Revenant werewolf</item>
+        <item>Rockslug</item>
+        <item>Shadow Hound</item>
+        <item>Skeletal hand</item>
+        <item>Skeletal miner</item>
+        <item>Skeleton</item>
+        <item>Skeleton (Ape Atoll)</item>
+        <item>Skeleton (Barrows)</item>
+        <item>Skeleton (Demon Slayer)</item>
+        <item>Skeleton (Draynor Manor)</item>
+        <item>Skeleton (Heart of Gielinor)</item>
+        <item>Skeleton (Lumbridge Catacombs)</item>
+        <item>Skeleton (Melzar's Maze)</item>
+        <item>Skeleton (Smoking Kills)</item>
+        <item>Skeleton (Tarn's Lair)</item>
+        <item>Skeleton (Temple Trekking)</item>
+        <item>Skeleton (Thok Your Block Off)</item>
+        <item>Skeleton (Ullek)</item>
+        <item>Skeleton archer</item>
+        <item>Skeleton brute</item>
+        <item>Skeleton heavy</item>
+        <item>Skeleton hero</item>
+        <item>Skeleton mage (The Death of Chivalry)</item>
+        <item>Skeleton thug</item>
+        <item>Skeleton warlock</item>
+        <item>Skeleton warlord</item>
+        <item>Skeleton warrior</item>
+        <item>Skoblin</item>
+        <item>Skogre</item>
+        <item>Small Lizard</item>
+        <item>Snailfeet</item>
+        <item>Snothead</item>
+        <item>Sorebones</item>
+        <item>Spectral attendant</item>
+        <item>Spectral cultivator</item>
+        <item>Spectral tender</item>
+        <item>Spectral worshipper</item>
+        <item>Strongbones</item>
+        <item>Summoned Zombie</item>
+        <item>Tormented soul (Uncharted Isles)</item>
+        <item>Tormented wraith</item>
+        <item>Tortured soul (Port Phasmatys)</item>
+        <item>Ulfric</item>
+        <item>Undead chicken</item>
+        <item>Undead cow</item>
+        <item>Undead Lumberjack</item>
+        <item>Undead one</item>
+        <item>Vampire (historical)</item>
+        <item>Vampyre</item>
+        <item>Vampyre Juvenile</item>
+        <item>Wall beast</item>
+        <item>Warped bat</item>
+        <item>White wolf</item>
+        <item>White wolf (Burthorpe)</item>
+        <item>Wild dog</item>
+        <item>Wolf</item>
+        <item>Wolf (Three's Company)</item>
+        <item>Young grotworm</item>
+        <item>Zogre</item>
+        <item>Zombie</item>
+        <item>Zombie (Ashdale)</item>
+        <item>Zombie (Smoking Kills)</item>
+        <item>Zombie cow</item>
+        <item>Zombie hand</item>
+        <item>Zombie pirate</item>
+        <item>Zombie rat</item>
+        <item>Zombie swab</item>
+    </string-array>
+    <string-array name="vannaka_monsters">
+        <item>Aberrant spectre</item>
+        <item>Aberrant Spectre Champion</item>
+        <item>Angry vampyre</item>
+        <item>Ankou</item>
+        <item>Ankou (elite)</item>
+        <item>Armadylean archon</item>
+        <item>Asyn shadow</item>
+        <item>Bandosian warlord</item>
+        <item>Banshee</item>
+        <item>Banshee mistress</item>
+        <item>Basilisk</item>
+        <item>Basilisk boss</item>
+        <item>Bloodveld</item>
+        <item>Brine rat</item>
+        <item>Bronze dragon</item>
+        <item>Brutal green dragon</item>
+        <item>Cockatrice</item>
+        <item>Crocodile</item>
+        <item>Cyclops</item>
+        <item>Cyclossus</item>
+        <item>Demon boss</item>
+        <item>Desert Lizard</item>
+        <item>Dessous</item>
+        <item>Earth warrior</item>
+        <item>Earth warrior (Dungeoneering)</item>
+        <item>Earth warrior (elite)</item>
+        <item>Earth Warrior Champion</item>
+        <item>Elvarg</item>
+        <item>Enclave guard</item>
+        <item>Feral vampyre</item>
+        <item>Feral vampyre (River of Blood)</item>
+        <item>Fiyr Shade</item>
+        <item>Ghoul</item>
+        <item>Ghoul (Paterdomus)</item>
+        <item>Giant worm</item>
+        <item>Gorad</item>
+        <item>Greater demon</item>
+        <item>Greater demon (elite)</item>
+        <item>Green dragon</item>
+        <item>Green dragon (Dungeoneering)</item>
+        <item>Grotworm</item>
+        <item>Harpie Bug Swarm</item>
+        <item>Harpie Bug Swarm (elite)</item>
+        <item>Hill giant</item>
+        <item>Hill giant (Dungeoneering)</item>
+        <item>Ice giant</item>
+        <item>Ice giant (Dungeoneering)</item>
+        <item>Ice warrior</item>
+        <item>Icelord</item>
+        <item>Infernal Mage</item>
+        <item>Infernal Mage (elite)</item>
+        <item>Jelly</item>
+        <item>Jogre</item>
+        <item>Jungle horror</item>
+        <item>K'ril Tsutsaroth</item>
+        <item>Kamil</item>
+        <item>Killerwatt</item>
+        <item>Lesser demon</item>
+        <item>Lesser demon (Dungeoneering)</item>
+        <item>Lesser demon (Melzar's Maze)</item>
+        <item>Lizard</item>
+        <item>Loar Shade</item>
+        <item>Mature grotworm</item>
+        <item>Mightiest turoth</item>
+        <item>Mighty banshee</item>
+        <item>Mogre</item>
+        <item>Molanisk</item>
+        <item>Moss giant</item>
+        <item>Mutated bloodveld</item>
+        <item>Ogre</item>
+        <item>Ogre chieftain</item>
+        <item>Ogress</item>
+        <item>Ogress champion</item>
+        <item>Ogress warrior</item>
+        <item>Otherworldly being</item>
+        <item>Phrin Shade</item>
+        <item>Pyrefiend</item>
+        <item>Pyrefiend (Dungeoneering)</item>
+        <item>Ravenous ghoul</item>
+        <item>Reborn warrior (Dungeoneering)</item>
+        <item>Revenant pyrefiend</item>
+        <item>Revenant werewolf</item>
+        <item>Riyl Shade</item>
+        <item>Sea Snake Hatchling</item>
+        <item>Sea Snake Young</item>
+        <item>Shade</item>
+        <item>Shade (Temple Trekking)</item>
+        <item>Shadow warrior</item>
+        <item>Skogre</item>
+        <item>Small Lizard</item>
+        <item>Swarming turoth</item>
+        <item>Tstanon Karlak</item>
+        <item>Turoth</item>
+        <item>Vampire (historical)</item>
+        <item>Vampyre</item>
+        <item>Vampyre Juvenile</item>
+        <item>Werewolf</item>
+        <item>Wyrd</item>
+        <item>Young grotworm</item>
+        <item>Zakl'n Gritch</item>
+        <item>Zamorakian demon lord</item>
+        <item>Zogre</item>
+    </string-array>
+    <string-array name="sumona_monsters">
+        <item>Aberrant spectre</item>
+        <item>Aberrant Spectre Champion</item>
+        <item>Abyssal demon</item>
+        <item>Abyssal demon (elite)</item>
+        <item>Abyssal demon (Heart of Gielinor)</item>
+        <item>Aquanite</item>
+        <item>Aquanite (elite)</item>
+        <item>Armadylean archon</item>
+        <item>Arrg</item>
+        <item>Automaton Generator</item>
+        <item>Automaton Guardian</item>
+        <item>Automaton Tracer</item>
+        <item>Aviansie</item>
+        <item>Baby blue dragon</item>
+        <item>Baby red dragon</item>
+        <item>Balfrug Kreeyath</item>
+        <item>Bandosian warlord</item>
+        <item>Banshee</item>
+        <item>Banshee mistress</item>
+        <item>Basilisk</item>
+        <item>Basilisk boss</item>
+        <item>Berry</item>
+        <item>Black demon</item>
+        <item>Black demon (The Grand Tree)</item>
+        <item>Bloodveld</item>
+        <item>Blue dragon</item>
+        <item>Brine rat</item>
+        <item>Cadarn magus</item>
+        <item>Cadarn ranger</item>
+        <item>Cave crawler</item>
+        <item>Cave crawler (Dungeoneering)</item>
+        <item>Cave horror</item>
+        <item>Cave horror (elite)</item>
+        <item>Cliff</item>
+        <item>Dad</item>
+        <item>Dagannoth (Horror from the Deep)</item>
+        <item>Dagannoth (Lighthouse)</item>
+        <item>Dagannoth (Waterbirth Island)</item>
+        <item>Dagannoth (Waterbirth Island, ranged)</item>
+        <item>Dagannoth fledgeling</item>
+        <item>Dagannoth guardian</item>
+        <item>Dagannoth Mother (Blood Runs Deep)</item>
+        <item>Dagannoth Prime</item>
+        <item>Dagannoth Rex</item>
+        <item>Dagannoth sentinel</item>
+        <item>Dagannoth spawn</item>
+        <item>Dagannoth Supreme</item>
+        <item>Demon boss</item>
+        <item>Desert strykewyrm</item>
+        <item>Dust devil</item>
+        <item>Dust devil (elite)</item>
+        <item>Dynamite</item>
+        <item>Elf warrior</item>
+        <item>Exiled kalphite guardian</item>
+        <item>Exiled kalphite marauder</item>
+        <item>Exiled kalphite paragon</item>
+        <item>Exiled kalphite soldier</item>
+        <item>Exiled kalphite worker</item>
+        <item>Fire giant</item>
+        <item>Fire giant (Dungeoneering)</item>
+        <item>Flight Kilisa</item>
+        <item>Flockleader Geerin</item>
+        <item>Fungal mage</item>
+        <item>Gargoyle</item>
+        <item>Giant scarab</item>
+        <item>Giant scarab (Dealing with Scabaras)</item>
+        <item>Giant worm</item>
+        <item>Greater demon</item>
+        <item>Greater demon (Dungeoneering)</item>
+        <item>Greater demon (elite)</item>
+        <item>Grifolapine</item>
+        <item>Grifolaroo</item>
+        <item>Grotworm</item>
+        <item>Hellhound</item>
+        <item>Hellhound (Dungeoneering)</item>
+        <item>High Priest of Scabaras</item>
+        <item>Ice troll</item>
+        <item>Ice troll (Dungeoneering)</item>
+        <item>Ice troll female</item>
+        <item>Ice troll grunt</item>
+        <item>Ice Troll King</item>
+        <item>Ice troll male</item>
+        <item>Ice troll runt</item>
+        <item>Insectoid assassin</item>
+        <item>Iorwerth guard</item>
+        <item>Iorwerth scout</item>
+        <item>Iron dragon</item>
+        <item>Jungle horror</item>
+        <item>Jungle strykewyrm</item>
+        <item>K'ril Tsutsaroth</item>
+        <item>Kalphite Guardian</item>
+        <item>Kalphite King</item>
+        <item>Kalphite Queen</item>
+        <item>Kalphite Soldier</item>
+        <item>Kalphite Worker</item>
+        <item>King Black Dragon</item>
+        <item>Knight of Ardougne</item>
+        <item>Kolodion</item>
+        <item>Kraka</item>
+        <item>Kree'arra</item>
+        <item>Kurask</item>
+        <item>Kurask minion</item>
+        <item>Kurask overlord</item>
+        <item>Locust lancer</item>
+        <item>Locust ranger</item>
+        <item>Locust rider</item>
+        <item>Magic Stick</item>
+        <item>The Map</item>
+        <item>Mature grotworm</item>
+        <item>Mightiest turoth</item>
+        <item>Mighty banshee</item>
+        <item>Monstrous cave crawler</item>
+        <item>Mountain troll</item>
+        <item>Mountain troll (Troll Invasion)</item>
+        <item>Mountain troll (well)</item>
+        <item>Mourner</item>
+        <item>Mummy (Jaldraocht Pyramid)</item>
+        <item>Mummy (Sophanem)</item>
+        <item>Mummy (Ullek)</item>
+        <item>Mummy warrior</item>
+        <item>Mutated bloodveld</item>
+        <item>Mutated jadinko baby</item>
+        <item>Mutated jadinko guard</item>
+        <item>Mutated jadinko male</item>
+        <item>Nechryael</item>
+        <item>Nechryael (Dungeoneering)</item>
+        <item>Nechryael (elite)</item>
+        <item>Nechryael (Heart of Gielinor)</item>
+        <item>Pee Hat</item>
+        <item>Poorly Cooked Karambwan</item>
+        <item>Red dragon</item>
+        <item>Red dragon (Dungeoneering)</item>
+        <item>River troll</item>
+        <item>Rock (monster)</item>
+        <item>Scabaras (monster)</item>
+        <item>Scabaras lancer</item>
+        <item>Scabaras mage</item>
+        <item>Scabaras ranger</item>
+        <item>Scarab mage</item>
+        <item>Scarab swarm</item>
+        <item>Scarabs</item>
+        <item>Small scarab</item>
+        <item>Spiritual mage</item>
+        <item>Spiritual ranger</item>
+        <item>Spiritual warrior</item>
+        <item>Stick</item>
+        <item>Summoner</item>
+        <item>Swarming turoth</item>
+        <item>Terror dog</item>
+        <item>Thrower Troll</item>
+        <item>Thrower troll (Dungeoneering)</item>
+        <item>Troll brute</item>
+        <item>Troll chucker</item>
+        <item>Troll commando</item>
+        <item>Troll father (Troll Invasion)</item>
+        <item>Troll general</item>
+        <item>Troll general (Troll Invasion)</item>
+        <item>Troll mage commando</item>
+        <item>Troll ranger</item>
+        <item>Troll ranger commando</item>
+        <item>Troll runt</item>
+        <item>Troll shaman</item>
+        <item>Troll spectator</item>
+        <item>Tstanon Karlak</item>
+        <item>Turoth</item>
+        <item>Twig (monster)</item>
+        <item>Undead troll</item>
+        <item>Vampyre Juvinate</item>
+        <item>Vyrelady</item>
+        <item>Vyrelord</item>
+        <item>Vyrewatch</item>
+        <item>Vyrewatch (River of Blood)</item>
+        <item>Vyrewatch guard</item>
+        <item>Warped tortoise</item>
+        <item>Wingman Skree</item>
+        <item>Wizard (Troll Invasion)</item>
+        <item>Wyrd</item>
+        <item>Young grotworm</item>
+        <item>Zakl'n Gritch</item>
+        <item>Zamorakian demon lord</item>
+    </string-array>
+    <string-array name="chaeldar_monsters">
+        <item>Aberrant spectre</item>
+        <item>Aberrant Spectre Champion</item>
+        <item>Arrg</item>
+        <item>Baby blue dragon</item>
+        <item>Banshee</item>
+        <item>Banshee mistress</item>
+        <item>Basilisk</item>
+        <item>Basilisk boss</item>
+        <item>Berry</item>
+        <item>Bloodveld</item>
+        <item>Blue dragon</item>
+        <item>Brine rat</item>
+        <item>Bronze dragon</item>
+        <item>Cadarn magus</item>
+        <item>Cadarn ranger</item>
+        <item>Cave crawler</item>
+        <item>Cave crawler (Dungeoneering)</item>
+        <item>Cave horror</item>
+        <item>Cave horror (elite)</item>
+        <item>Cliff</item>
+        <item>Crawling hand</item>
+        <item>Crawling hand (Dungeoneering)</item>
+        <item>Dad</item>
+        <item>Dagannoth (Horror from the Deep)</item>
+        <item>Dagannoth (Lighthouse)</item>
+        <item>Dagannoth (Waterbirth Island)</item>
+        <item>Dagannoth (Waterbirth Island, ranged)</item>
+        <item>Dagannoth fledgeling</item>
+        <item>Dagannoth guardian</item>
+        <item>Dagannoth Mother (Blood Runs Deep)</item>
+        <item>Dagannoth Prime</item>
+        <item>Dagannoth Rex</item>
+        <item>Dagannoth sentinel</item>
+        <item>Dagannoth spawn</item>
+        <item>Dagannoth Supreme</item>
+        <item>Dust devil</item>
+        <item>Dust devil (elite)</item>
+        <item>Dynamite</item>
+        <item>Elf warrior</item>
+        <item>Exiled kalphite guardian</item>
+        <item>Exiled kalphite marauder</item>
+        <item>Exiled kalphite paragon</item>
+        <item>Exiled Kalphite Queen</item>
+        <item>Exiled kalphite soldier</item>
+        <item>Exiled kalphite worker</item>
+        <item>Fever spider</item>
+        <item>Fire giant</item>
+        <item>Fire giant (Dungeoneering)</item>
+        <item>Fungal mage</item>
+        <item>Gargoyle</item>
+        <item>Giant worm</item>
+        <item>Greater demon (Dungeoneering)</item>
+        <item>Grifolapine</item>
+        <item>Grifolaroo</item>
+        <item>Grotworm</item>
+        <item>Harpie Bug Swarm</item>
+        <item>Harpie Bug Swarm (elite)</item>
+        <item>Ice troll</item>
+        <item>Ice troll (Dungeoneering)</item>
+        <item>Ice troll female</item>
+        <item>Ice troll grunt</item>
+        <item>Ice Troll King</item>
+        <item>Ice troll male</item>
+        <item>Ice troll runt</item>
+        <item>Infernal Mage</item>
+        <item>Infernal Mage (elite)</item>
+        <item>Iorwerth guard</item>
+        <item>Iorwerth scout</item>
+        <item>Jelly</item>
+        <item>Jungle horror</item>
+        <item>Jungle strykewyrm</item>
+        <item>Kalphite Guardian</item>
+        <item>Kalphite King</item>
+        <item>Kalphite Queen</item>
+        <item>Kalphite Soldier</item>
+        <item>Kalphite Worker</item>
+        <item>Knight of Ardougne</item>
+        <item>Kraka</item>
+        <item>Kurask</item>
+        <item>Kurask minion</item>
+        <item>Kurask overlord</item>
+        <item>Lesser demon</item>
+        <item>Lesser demon (Melzar's Maze)</item>
+        <item>Magic Stick</item>
+        <item>The Map</item>
+        <item>Mature grotworm</item>
+        <item>Mightiest turoth</item>
+        <item>Mighty banshee</item>
+        <item>Molanisk</item>
+        <item>Monstrous cave crawler</item>
+        <item>Mountain troll</item>
+        <item>Mountain troll (Troll Invasion)</item>
+        <item>Mountain troll (well)</item>
+        <item>Mourner</item>
+        <item>Mutated bloodveld</item>
+        <item>Mutated zygomite</item>
+        <item>Pee Hat</item>
+        <item>Poorly Cooked Karambwan</item>
+        <item>Revenant demon</item>
+        <item>River troll</item>
+        <item>Rock (monster)</item>
+        <item>Shadow warrior</item>
+        <item>Skeletal hand</item>
+        <item>Stick</item>
+        <item>Summoner</item>
+        <item>Swarming turoth</item>
+        <item>Thrower Troll</item>
+        <item>Thrower troll (Dungeoneering)</item>
+        <item>Troll brute</item>
+        <item>Troll chucker</item>
+        <item>Troll commando</item>
+        <item>Troll father (Troll Invasion)</item>
+        <item>Troll general</item>
+        <item>Troll general (Troll Invasion)</item>
+        <item>Troll mage commando</item>
+        <item>Troll ranger</item>
+        <item>Troll ranger commando</item>
+        <item>Troll runt</item>
+        <item>Troll shaman</item>
+        <item>Troll spectator</item>
+        <item>Turoth</item>
+        <item>Twig (monster)</item>
+        <item>Undead troll</item>
+        <item>Vampyre Juvinate</item>
+        <item>Vyrelady</item>
+        <item>Vyrelord</item>
+        <item>Vyrewatch</item>
+        <item>Vyrewatch (River of Blood)</item>
+        <item>Vyrewatch guard</item>
+        <item>Warped tortoise</item>
+        <item>Wizard (Troll Invasion)</item>
+        <item>Wyrd</item>
+        <item>Young grotworm</item>
+        <item>Zombie hand</item>
+    </string-array>
+    <string-array name="duradel_or_lapalok_monsters">
+        <item>Aberrant spectre</item>
+        <item>Aberrant Spectre Champion</item>
+        <item>Abyssal demon</item>
+        <item>Abyssal demon (elite)</item>
+        <item>Abyssal demon (Heart of Gielinor)</item>
+        <item>Aquanite</item>
+        <item>Aquanite (elite)</item>
+        <item>Armadylean archon</item>
+        <item>Automaton Generator</item>
+        <item>Automaton Guardian</item>
+        <item>Automaton Tracer</item>
+        <item>Aviansie</item>
+        <item>Baby black dragon</item>
+        <item>Balfrug Kreeyath</item>
+        <item>Bandosian warlord</item>
+        <item>Black demon</item>
+        <item>Black demon (Dungeoneering)</item>
+        <item>Black demon (The Grand Tree)</item>
+        <item>Black dragon</item>
+        <item>Black dragon (Dungeoneering)</item>
+        <item>Bloodveld</item>
+        <item>Capsarius</item>
+        <item>Celestial dragon</item>
+        <item>Dagannoth (Horror from the Deep)</item>
+        <item>Dagannoth (Lighthouse)</item>
+        <item>Dagannoth (Waterbirth Island)</item>
+        <item>Dagannoth (Waterbirth Island, ranged)</item>
+        <item>Dagannoth fledgeling</item>
+        <item>Dagannoth guardian</item>
+        <item>Dagannoth Mother (Blood Runs Deep)</item>
+        <item>Dagannoth Prime</item>
+        <item>Dagannoth Rex</item>
+        <item>Dagannoth sentinel</item>
+        <item>Dagannoth spawn</item>
+        <item>Dagannoth Supreme</item>
+        <item>Dark beast</item>
+        <item>Dark beast (elite)</item>
+        <item>Demon boss</item>
+        <item>Desert strykewyrm</item>
+        <item>Dust devil</item>
+        <item>Dust devil (elite)</item>
+        <item>Edimmu</item>
+        <item>Edimmu (Dungeoneering)</item>
+        <item>Exiled kalphite guardian</item>
+        <item>Exiled kalphite marauder</item>
+        <item>Exiled kalphite paragon</item>
+        <item>Exiled Kalphite Queen</item>
+        <item>Exiled kalphite soldier</item>
+        <item>Exiled kalphite worker</item>
+        <item>Fire giant</item>
+        <item>Fire giant (Dungeoneering)</item>
+        <item>Flight Kilisa</item>
+        <item>Flockleader Geerin</item>
+        <item>Fungal mage</item>
+        <item>Ganodermic beast</item>
+        <item>Ganodermic runt</item>
+        <item>Gargoyle</item>
+        <item>Giant scarab</item>
+        <item>Giant scarab (Dealing with Scabaras)</item>
+        <item>Giant worm</item>
+        <item>Gladius</item>
+        <item>Gorak</item>
+        <item>Greater demon</item>
+        <item>Greater demon (Dungeoneering)</item>
+        <item>Greater demon (elite)</item>
+        <item>Grifolapine</item>
+        <item>Grifolaroo</item>
+        <item>Grotworm</item>
+        <item>Hellhound</item>
+        <item>Hellhound (Dungeoneering)</item>
+        <item>High Priest of Scabaras</item>
+        <item>Ice strykewyrm</item>
+        <item>Insectoid assassin</item>
+        <item>Iron dragon</item>
+        <item>Jungle strykewyrm</item>
+        <item>K'ril Tsutsaroth</item>
+        <item>Kalphite Guardian</item>
+        <item>Kalphite King</item>
+        <item>Kalphite Queen</item>
+        <item>Kalphite Soldier</item>
+        <item>Kalphite Worker</item>
+        <item>King Black Dragon</item>
+        <item>Kolodion</item>
+        <item>Kree'arra</item>
+        <item>Legio Primus</item>
+        <item>Legio Quartus</item>
+        <item>Legio Quintus</item>
+        <item>Legio Secundus</item>
+        <item>Legio Sextus</item>
+        <item>Legio Tertius</item>
+        <item>Locust lancer</item>
+        <item>Locust ranger</item>
+        <item>Locust rider</item>
+        <item>Mature grotworm</item>
+        <item>Mithril dragon</item>
+        <item>Mutated bloodveld</item>
+        <item>Mutated jadinko baby</item>
+        <item>Mutated jadinko guard</item>
+        <item>Mutated jadinko male</item>
+        <item>Nechryael</item>
+        <item>Nechryael (Dungeoneering)</item>
+        <item>Nechryael (elite)</item>
+        <item>Nechryael (Heart of Gielinor)</item>
+        <item>Queen Black Dragon</item>
+        <item>Revenant dark beast</item>
+        <item>Revenant hellhound</item>
+        <item>Rorarius</item>
+        <item>Scabaras (monster)</item>
+        <item>Scabaras lancer</item>
+        <item>Scabaras mage</item>
+        <item>Scabaras ranger</item>
+        <item>Scarab mage</item>
+        <item>Scarab swarm</item>
+        <item>Scarabs</item>
+        <item>Scutarius</item>
+        <item>Skeletal Wyvern</item>
+        <item>Small scarab</item>
+        <item>Spiritual mage</item>
+        <item>Spiritual warrior</item>
+        <item>Steel dragon</item>
+        <item>Suqah</item>
+        <item>Tstanon Karlak</item>
+        <item>Vampyre Juvinate</item>
+        <item>Vyrelady</item>
+        <item>Vyrelord</item>
+        <item>Vyrewatch</item>
+        <item>Vyrewatch (River of Blood)</item>
+        <item>Vyrewatch guard</item>
+        <item>Warped terrorbird</item>
+        <item>Waterfiend</item>
+        <item>Waterfiend (elite)</item>
+        <item>Wingman Skree</item>
+        <item>Wyrd</item>
+        <item>Young grotworm</item>
+        <item>Zakl'n Gritch</item>
+        <item>Zamorakian demon lord</item>
+    </string-array>
+    <string-array name="kuradal_monsters">
+        <item>Aberrant spectre</item>
+        <item>Aberrant Spectre Champion</item>
+        <item>Abyssal demon</item>
+        <item>Abyssal demon (elite)</item>
+        <item>Abyssal demon (Heart of Gielinor)</item>
+        <item>Acheron mammoth</item>
+        <item>Adamant dragon</item>
+        <item>Airut</item>
+        <item>Aquanite</item>
+        <item>Aquanite (elite)</item>
+        <item>Armadylean archon</item>
+        <item>Automaton Generator</item>
+        <item>Automaton Guardian</item>
+        <item>Automaton Tracer</item>
+        <item>Aviansie</item>
+        <item>Baby black dragon</item>
+        <item>Baby blue dragon</item>
+        <item>Balfrug Kreeyath</item>
+        <item>Bandosian warlord</item>
+        <item>Black demon</item>
+        <item>Black demon (Dungeoneering)</item>
+        <item>Black dragon</item>
+        <item>Black dragon (Dungeoneering)</item>
+        <item>Bladed muspah</item>
+        <item>Blood mirage</item>
+        <item>Blood nihil</item>
+        <item>Bloodveld</item>
+        <item>Blue dragon</item>
+        <item>Cadarn magus</item>
+        <item>Cadarn ranger</item>
+        <item>Camel Warrior</item>
+        <item>Capsarius</item>
+        <item>Celestial dragon</item>
+        <item>Chaos Giant</item>
+        <item>Dagannoth (Horror from the Deep)</item>
+        <item>Dagannoth (Lighthouse)</item>
+        <item>Dagannoth (Waterbirth Island)</item>
+        <item>Dagannoth (Waterbirth Island, ranged)</item>
+        <item>Dagannoth fledgeling</item>
+        <item>Dagannoth guardian</item>
+        <item>Dagannoth Mother (Blood Runs Deep)</item>
+        <item>Dagannoth Prime</item>
+        <item>Dagannoth Rex</item>
+        <item>Dagannoth sentinel</item>
+        <item>Dagannoth spawn</item>
+        <item>Dagannoth Supreme</item>
+        <item>Dark beast</item>
+        <item>Dark beast (elite)</item>
+        <item>Demon boss</item>
+        <item>Desert strykewyrm</item>
+        <item>Dust devil</item>
+        <item>Dust devil (elite)</item>
+        <item>Edimmu</item>
+        <item>Edimmu (Dungeoneering)</item>
+        <item>Edimmu (elite)</item>
+        <item>Elf warrior</item>
+        <item>Exiled kalphite guardian</item>
+        <item>Exiled kalphite marauder</item>
+        <item>Exiled kalphite paragon</item>
+        <item>Exiled kalphite soldier</item>
+        <item>Exiled kalphite worker</item>
+        <item>Fire giant</item>
+        <item>Fire giant (Dungeoneering)</item>
+        <item>Flight Kilisa</item>
+        <item>Flockleader Geerin</item>
+        <item>Force muspah</item>
+        <item>Fungal mage</item>
+        <item>Ganodermic beast</item>
+        <item>Ganodermic runt</item>
+        <item>Gargoyle</item>
+        <item>Giant worm</item>
+        <item>Glacor</item>
+        <item>Gladius</item>
+        <item>Grand force muspah</item>
+        <item>Greater demon</item>
+        <item>Greater demon (Dungeoneering)</item>
+        <item>Greater demon (elite)</item>
+        <item>Grifolapine</item>
+        <item>Grifolaroo</item>
+        <item>Grotworm</item>
+        <item>Hellhound</item>
+        <item>Hellhound (Dungeoneering)</item>
+        <item>Ice nihil</item>
+        <item>Ice strykewyrm</item>
+        <item>Iorwerth guard</item>
+        <item>Iorwerth scout</item>
+        <item>Iron dragon</item>
+        <item>Jungle strykewyrm</item>
+        <item>K'ril Tsutsaroth</item>
+        <item>Kal'gerion demon</item>
+        <item>Kalphite Guardian</item>
+        <item>Kalphite King</item>
+        <item>Kalphite Queen</item>
+        <item>Kalphite Soldier</item>
+        <item>Kalphite Worker</item>
+        <item>Ket-Zek</item>
+        <item>King Black Dragon</item>
+        <item>Kolodion</item>
+        <item>Kree'arra</item>
+        <item>Lava strykewyrm</item>
+        <item>Legio Primus</item>
+        <item>Legio Quartus</item>
+        <item>Legio Quintus</item>
+        <item>Legio Secundus</item>
+        <item>Legio Sextus</item>
+        <item>Legio Tertius</item>
+        <item>Living rock patriarch</item>
+        <item>Living rock protector</item>
+        <item>Living rock striker</item>
+        <item>Mature grotworm</item>
+        <item>Mithril dragon</item>
+        <item>Mutated bloodveld</item>
+        <item>Mutated jadinko baby</item>
+        <item>Mutated jadinko guard</item>
+        <item>Mutated jadinko male</item>
+        <item>Nechryael</item>
+        <item>Nechryael (elite)</item>
+        <item>Nechryael (Heart of Gielinor)</item>
+        <item>Nightmare</item>
+        <item>Queen Black Dragon</item>
+        <item>Revenant dark beast</item>
+        <item>Revenant hellhound</item>
+        <item>Ripper Demon</item>
+        <item>Rorarius</item>
+        <item>Scutarius</item>
+        <item>Shadow mirage</item>
+        <item>Shadow nihil</item>
+        <item>Skeletal Wyvern</item>
+        <item>Slasher Demon</item>
+        <item>Smoke mirage</item>
+        <item>Smoke nihil</item>
+        <item>Spiritual mage</item>
+        <item>Spiritual ranger</item>
+        <item>Spiritual warrior</item>
+        <item>Steel dragon</item>
+        <item>Suqah</item>
+        <item>Terror dog</item>
+        <item>Throwing muspah</item>
+        <item>Tok-Xil</item>
+        <item>TokHaar-Hur</item>
+        <item>TokHaar-Ket</item>
+        <item>TokHaar-Ket Champion</item>
+        <item>TokHaar-Ket-Zek</item>
+        <item>TokHaar-Mej</item>
+        <item>TokHaar-Tok-Xil</item>
+        <item>TokHaar-Xil</item>
+        <item>TokHaar-Yt-MejKot</item>
+        <item>Tormented demon</item>
+        <item>Tstanon Karlak</item>
+        <item>TzHaar-Hur</item>
+        <item>TzHaar-Ket</item>
+        <item>TzHaar-Mej</item>
+        <item>TzHaar-Xil</item>
+        <item>TzTok-Jad</item>
+        <item>WildyWyrm</item>
+        <item>Warped tortoise</item>
+        <item>Waterfiend</item>
+        <item>Waterfiend (elite)</item>
+        <item>Wingman Skree</item>
+        <item>Wounded glacor</item>
+        <item>Wyrd</item>
+        <item>Wyvern</item>
+        <item>Wyvern (elite)</item>
+        <item>Vampyre Juvinate</item>
+        <item>Vyrelady</item>
+        <item>Vyrelord</item>
+        <item>Vyrewatch</item>
+        <item>Vyrewatch guard</item>
+        <item>Young grotworm</item>
+        <item>Yt-MejKot</item>
+        <item>Zakl'n Gritch</item>
+        <item>Zamorakian demon lord</item>
+    </string-array>
+   <string-array name="morvran_monsters">
+       <item>Abyssal demon</item>
+       <item>Abyssal demon (elite)</item>
+       <item>Abyssal demon (Heart of Gielinor)</item>
+       <item>Acheron mammoth</item>
+       <item>Adamant dragon</item>
+       <item>Airut</item>
+       <item>Aquanite</item>
+       <item>Aquanite (elite)</item>
+       <item>Automaton Generator</item>
+       <item>Automaton Guardian</item>
+       <item>Automaton Tracer</item>
+       <item>Aviansie</item>
+       <item>Balfrug Kreeyath</item>
+       <item>Black demon</item>
+       <item>Black demon (Dungeoneering)</item>
+       <item>Black demon (The Grand Tree)</item>
+       <item>Black dragon</item>
+       <item>Black dragon (Dungeoneering)</item>
+       <item>Bladed muspah</item>
+       <item>Blissful shadow</item>
+       <item>Blood mirage</item>
+       <item>Blood nihil</item>
+       <item>Cadarn magus</item>
+       <item>Cadarn ranger</item>
+       <item>Camel Warrior</item>
+       <item>Capsarius</item>
+       <item>Celestial dragon</item>
+       <item>Chaos Giant</item>
+       <item>Crystal Shapeshifter</item>
+       <item>Dagannoth Prime</item>
+       <item>Dagannoth Rex</item>
+       <item>Dagannoth sentinel</item>
+       <item>Dagannoth Supreme</item>
+       <item>Dark beast</item>
+       <item>Dark beast (elite)</item>
+       <item>Desert strykewyrm</item>
+       <item>Edimmu</item>
+       <item>Edimmu (Dungeoneering)</item>
+       <item>Edimmu (elite)</item>
+       <item>Elite rune dragon</item>
+       <item>Exiled kalphite guardian</item>
+       <item>Exiled kalphite marauder</item>
+       <item>Exiled kalphite paragon</item>
+       <item>Exiled Kalphite Queen</item>
+       <item>Exiled kalphite soldier</item>
+       <item>Exiled kalphite worker</item>
+       <item>Flight Kilisa</item>
+       <item>Flockleader Geerin</item>
+       <item>Force muspah</item>
+       <item>Ganodermic beast</item>
+       <item>Ganodermic runt</item>
+       <item>Gargoyle</item>
+       <item>Glacor</item>
+       <item>Gladius</item>
+       <item>Grand force muspah</item>
+       <item>Greater demon</item>
+       <item>Greater demon (elite)</item>
+       <item>Greater shadow</item>
+       <item>Grifolapine</item>
+       <item>Grotworm</item>
+       <item>Ice nihil</item>
+       <item>Ice strykewyrm</item>
+       <item>Iorwerth guard</item>
+       <item>Iorwerth scout</item>
+       <item>Iron dragon</item>
+       <item>K'ril Tsutsaroth</item>
+       <item>Kal'gerion demon</item>
+       <item>Kalphite Guardian</item>
+       <item>Kalphite King</item>
+       <item>Kalphite Queen</item>
+       <item>Kalphite Soldier</item>
+       <item>Kalphite Worker</item>
+       <item>King Black Dragon</item>
+       <item>Kree'arra</item>
+       <item>Lava strykewyrm</item>
+       <item>Legio Primus</item>
+       <item>Legio Quartus</item>
+       <item>Legio Quintus</item>
+       <item>Legio Secundus</item>
+       <item>Legio Sextus</item>
+       <item>Legio Tertius</item>
+       <item>Manifest shadow</item>
+       <item>Mature grotworm</item>
+       <item>Mithril dragon</item>
+       <item>Mutated jadinko baby</item>
+       <item>Mutated jadinko guard</item>
+       <item>Mutated jadinko male</item>
+       <item>Nechryael</item>
+       <item>Nechryael (elite)</item>
+       <item>Nechryael (Heart of Gielinor)</item>
+       <item>Nightmare</item>
+       <item>Queen Black Dragon</item>
+       <item>Revenant dark beast</item>
+       <item>Ripper Demon</item>
+       <item>Rorarius</item>
+       <item>Rune dragon</item>
+       <item>Scutarius</item>
+       <item>Shadow (Temple of Light)</item>
+       <item>Shadow mirage</item>
+       <item>Shadow nihil</item>
+       <item>Slasher Demon</item>
+       <item>Smoke mirage</item>
+       <item>Smoke nihil</item>
+       <item>Steel dragon</item>
+       <item>WildyWyrm</item>
+       <item>Waterfiend</item>
+       <item>Waterfiend (elite)</item>
+       <item>Wounded glacor</item>
+       <item>Wyvern</item>
+       <item>Wyvern (elite)</item>
+       <item>Throwing muspah</item>
+       <item>TokHaar-Hur</item>
+       <item>TokHaar-Ket</item>
+       <item>TokHaar-Ket-Zek</item>
+       <item>TokHaar-Mej</item>
+       <item>TokHaar-Tok-Xil</item>
+       <item>TokHaar-Xil</item>
+       <item>TokHaar-Yt-MejKot</item>
+       <item>Tormented demon</item>
+       <item>Truthful shadow</item>
+       <item>Tstanon Karlak</item>
+       <item>TzHaar-Hur</item>
+       <item>TzHaar-Ket</item>
+       <item>TzHaar-Mej</item>
+       <item>TzHaar-Xil</item>
+       <item>Vyrelady</item>
+       <item>Vyrelord</item>
+       <item>Vyrewatch</item>
+       <item>Vyrewatch (River of Blood)</item>
+       <item>Young grotworm</item>
+   </string-array>
 </resources>
