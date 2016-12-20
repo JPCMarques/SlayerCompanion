@@ -17,4 +17,9 @@ public class Morvran extends MasterPageActivity {
     public String getTitleBarText() {
         return "Morvran";
     }
+
+    @Override
+    protected int getMonsterArrayID() {
+        return R.array.morvran_monsters;
+    }
 }

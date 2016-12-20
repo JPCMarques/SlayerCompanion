@@ -17,4 +17,9 @@ public class Vannaka extends MasterPageActivity {
     public String getTitleBarText() {
         return "Vannaka";
     }
+
+    @Override
+    protected int getMonsterArrayID() {
+        return R.array.vannaka_monsters;
+    }
 }

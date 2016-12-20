@@ -17,4 +17,9 @@ public class Chaeldar extends MasterPageActivity {
     public String getTitleBarText() {
         return "Chaeldar";
     }
+
+    @Override
+    protected int getMonsterArrayID() {
+        return R.array.chaeldar_monsters;
+    }
 }

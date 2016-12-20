@@ -41,4 +41,10 @@ public abstract class MasterPageActivity extends AppCompatActivity implements Ti
     public View.OnClickListener getTitleTextOnClickListener() {
         return null;
     }
+
+    public String[] getMonsters(){
+        return getResources().getStringArray(getMonsterArrayID());
+    }
+
+    protected abstract int getMonsterArrayID();
 }

@@ -20,4 +20,9 @@ public class TuraelSpria extends MasterPageActivity{
     public String getTitleBarText() {
         return "Turael/Spria";
     }
+
+    @Override
+    protected int getMonsterArrayID() {
+        return R.array.turael_spria_monsters;
+    }
 }

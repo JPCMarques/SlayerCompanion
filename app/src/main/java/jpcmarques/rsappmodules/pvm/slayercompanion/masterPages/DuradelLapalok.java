@@ -17,4 +17,9 @@ public class DuradelLapalok extends MasterPageActivity {
     public String getTitleBarText() {
         return "Duradel/Lapalok";
     }
+
+    @Override
+    protected int getMonsterArrayID() {
+        return R.array.duradel_or_lapalok_monsters;
+    }
 }

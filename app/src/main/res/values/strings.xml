@@ -77,7 +77,7 @@
         <item>Gelatinous abomination</item>
         <item>General malpractitioner</item>
         <item>Ghost</item>
-        <item>Ghost (Melzar's Maze)</item>
+        <item>Ghost (Melzar\'s Maze)</item>
         <item>Ghostly warrior</item>
         <item>Giant bat</item>
         <item>Giant crypt spider</item>
@@ -85,7 +85,7 @@
         <item>Giant lobster (Ghosts Ahoy)</item>
         <item>Giant Roc</item>
         <item>Giant skeleton (Shadow Dungeon)</item>
-        <item>Giant skeleton (Tarn's Lair)</item>
+        <item>Giant skeleton (Tarn\'s Lair)</item>
         <item>Giant spider</item>
         <item>Goblin</item>
         <item>Goblin Champion</item>
@@ -185,9 +185,9 @@
         <item>Skeleton (Draynor Manor)</item>
         <item>Skeleton (Heart of Gielinor)</item>
         <item>Skeleton (Lumbridge Catacombs)</item>
-        <item>Skeleton (Melzar's Maze)</item>
+        <item>Skeleton (Melzar\'s Maze)</item>
         <item>Skeleton (Smoking Kills)</item>
-        <item>Skeleton (Tarn's Lair)</item>
+        <item>Skeleton (Tarn\'s Lair)</item>
         <item>Skeleton (Temple Trekking)</item>
         <item>Skeleton (Thok Your Block Off)</item>
         <item>Skeleton (Ullek)</item>
@@ -247,7 +247,7 @@
         <item>Wild dog</item>
         <item>Wizard (Troll Invasion)</item>
         <item>Wolf</item>
-        <item>Wolf (Three's Company)</item>
+        <item>Wolf (Three\'s Company)</item>
         <item>Wormbrain</item>
         <item>Young grotworm</item>
         <item>Zogre</item>
@@ -303,13 +303,13 @@
         <item>General malpractitioner</item>
         <item>Ghost</item>
         <item>Ghost (Dungeoneering, monster)</item>
-        <item>Ghost (Melzar's Maze)</item>
+        <item>Ghost (Melzar\'s Maze)</item>
         <item>Ghostly warrior</item>
         <item>Ghoul</item>
         <item>Ghoul (Paterdomus)</item>
         <item>Giant bat</item>
         <item>Giant skeleton (Shadow Dungeon)</item>
-        <item>Giant skeleton (Tarn's Lair)</item>
+        <item>Giant skeleton (Tarn\'s Lair)</item>
         <item>Giant worm</item>
         <item>Grizzly bear</item>
         <item>Grizzly bear cub</item>
@@ -361,9 +361,9 @@
         <item>Skeleton (Draynor Manor)</item>
         <item>Skeleton (Heart of Gielinor)</item>
         <item>Skeleton (Lumbridge Catacombs)</item>
-        <item>Skeleton (Melzar's Maze)</item>
+        <item>Skeleton (Melzar\'s Maze)</item>
         <item>Skeleton (Smoking Kills)</item>
-        <item>Skeleton (Tarn's Lair)</item>
+        <item>Skeleton (Tarn\'s Lair)</item>
         <item>Skeleton (Temple Trekking)</item>
         <item>Skeleton (Thok Your Block Off)</item>
         <item>Skeleton (Ullek)</item>
@@ -405,7 +405,7 @@
         <item>White wolf (Burthorpe)</item>
         <item>Wild dog</item>
         <item>Wolf</item>
-        <item>Wolf (Three's Company)</item>
+        <item>Wolf (Three\'s Company)</item>
         <item>Young grotworm</item>
         <item>Zogre</item>
         <item>Zombie</item>
@@ -472,12 +472,12 @@
         <item>Jelly</item>
         <item>Jogre</item>
         <item>Jungle horror</item>
-        <item>K'ril Tsutsaroth</item>
+        <item>K\'ril Tsutsaroth</item>
         <item>Kamil</item>
         <item>Killerwatt</item>
         <item>Lesser demon</item>
         <item>Lesser demon (Dungeoneering)</item>
-        <item>Lesser demon (Melzar's Maze)</item>
+        <item>Lesser demon (Melzar\'s Maze)</item>
         <item>Lizard</item>
         <item>Loar Shade</item>
         <item>Mature grotworm</item>
@@ -517,7 +517,7 @@
         <item>Werewolf</item>
         <item>Wyrd</item>
         <item>Young grotworm</item>
-        <item>Zakl'n Gritch</item>
+        <item>Zakl\'n Gritch</item>
         <item>Zamorakian demon lord</item>
         <item>Zogre</item>
     </string-array>
@@ -611,7 +611,7 @@
         <item>Iron dragon</item>
         <item>Jungle horror</item>
         <item>Jungle strykewyrm</item>
-        <item>K'ril Tsutsaroth</item>
+        <item>K\'ril Tsutsaroth</item>
         <item>Kalphite Guardian</item>
         <item>Kalphite King</item>
         <item>Kalphite Queen</item>
@@ -621,7 +621,7 @@
         <item>Knight of Ardougne</item>
         <item>Kolodion</item>
         <item>Kraka</item>
-        <item>Kree'arra</item>
+        <item>Kree\'arra</item>
         <item>Kurask</item>
         <item>Kurask minion</item>
         <item>Kurask overlord</item>
@@ -700,7 +700,7 @@
         <item>Wizard (Troll Invasion)</item>
         <item>Wyrd</item>
         <item>Young grotworm</item>
-        <item>Zakl'n Gritch</item>
+        <item>Zakl\'n Gritch</item>
         <item>Zamorakian demon lord</item>
     </string-array>
     <string-array name="chaeldar_monsters">
@@ -786,7 +786,7 @@
         <item>Kurask minion</item>
         <item>Kurask overlord</item>
         <item>Lesser demon</item>
-        <item>Lesser demon (Melzar's Maze)</item>
+        <item>Lesser demon (Melzar\'s Maze)</item>
         <item>Magic Stick</item>
         <item>The Map</item>
         <item>Mature grotworm</item>
@@ -915,7 +915,7 @@
         <item>Insectoid assassin</item>
         <item>Iron dragon</item>
         <item>Jungle strykewyrm</item>
-        <item>K'ril Tsutsaroth</item>
+        <item>K\'ril Tsutsaroth</item>
         <item>Kalphite Guardian</item>
         <item>Kalphite King</item>
         <item>Kalphite Queen</item>
@@ -923,7 +923,7 @@
         <item>Kalphite Worker</item>
         <item>King Black Dragon</item>
         <item>Kolodion</item>
-        <item>Kree'arra</item>
+        <item>Kree\'arra</item>
         <item>Legio Primus</item>
         <item>Legio Quartus</item>
         <item>Legio Quintus</item>
@@ -974,7 +974,7 @@
         <item>Wingman Skree</item>
         <item>Wyrd</item>
         <item>Young grotworm</item>
-        <item>Zakl'n Gritch</item>
+        <item>Zakl\'n Gritch</item>
         <item>Zamorakian demon lord</item>
     </string-array>
     <string-array name="kuradal_monsters">
@@ -1066,8 +1066,8 @@
         <item>Iorwerth scout</item>
         <item>Iron dragon</item>
         <item>Jungle strykewyrm</item>
-        <item>K'ril Tsutsaroth</item>
-        <item>Kal'gerion demon</item>
+        <item>K\'ril Tsutsaroth</item>
+        <item>Kal\'gerion demon</item>
         <item>Kalphite Guardian</item>
         <item>Kalphite King</item>
         <item>Kalphite Queen</item>
@@ -1076,7 +1076,7 @@
         <item>Ket-Zek</item>
         <item>King Black Dragon</item>
         <item>Kolodion</item>
-        <item>Kree'arra</item>
+        <item>Kree\'arra</item>
         <item>Lava strykewyrm</item>
         <item>Legio Primus</item>
         <item>Legio Quartus</item>
@@ -1148,7 +1148,7 @@
         <item>Vyrewatch guard</item>
         <item>Young grotworm</item>
         <item>Yt-MejKot</item>
-        <item>Zakl'n Gritch</item>
+        <item>Zakl\'n Gritch</item>
         <item>Zamorakian demon lord</item>
     </string-array>
    <string-array name="morvran_monsters">
@@ -1217,15 +1217,15 @@
        <item>Iorwerth guard</item>
        <item>Iorwerth scout</item>
        <item>Iron dragon</item>
-       <item>K'ril Tsutsaroth</item>
-       <item>Kal'gerion demon</item>
+       <item>K\'ril Tsutsaroth</item>
+       <item>Kal\'gerion demon</item>
        <item>Kalphite Guardian</item>
        <item>Kalphite King</item>
        <item>Kalphite Queen</item>
        <item>Kalphite Soldier</item>
        <item>Kalphite Worker</item>
        <item>King Black Dragon</item>
-       <item>Kree'arra</item>
+       <item>Kree\'arra</item>
        <item>Lava strykewyrm</item>
        <item>Legio Primus</item>
        <item>Legio Quartus</item>

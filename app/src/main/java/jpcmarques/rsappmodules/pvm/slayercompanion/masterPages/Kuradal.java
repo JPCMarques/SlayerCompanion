@@ -17,4 +17,9 @@ public class Kuradal extends MasterPageActivity {
     public String getTitleBarText() {
         return "Mazchna/Achtryn";
     }
+
+    @Override
+    protected int getMonsterArrayID() {
+        return R.array.kuradal_monsters;
+    }
 }

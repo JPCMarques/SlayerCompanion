@@ -17,4 +17,9 @@ public class MazchnaAchtryn extends MasterPageActivity {
     public String getTitleBarText() {
         return "Mazchna/Achtryn";
     }
+
+    @Override
+    protected int getMonsterArrayID() {
+        return R.array.mazchna_achtryn_monsters;
+    }
 }

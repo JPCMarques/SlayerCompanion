@@ -17,4 +17,9 @@ public class Sumona extends MasterPageActivity {
     public String getTitleBarText() {
         return "Sumona";
     }
+
+    @Override
+    protected int getMonsterArrayID() {
+        return R.array.sumona_monsters;
+    }
 }
